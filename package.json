@@ -26,5 +26,9 @@
     "jsduck": "^1.1.2",
     "through2": "^4.0.2",
     "yajscf": "^1.0.3"
+  },
+  "resolutions": {
+    "glob-parent": "^5.1.2",
+    "yargs-parser": "^18.1.2"
   }
 }
