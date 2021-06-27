@@ -1,5 +1,5 @@
 {
-  "name": "gulp-jsduck",
+  "name": "gulp-jsduck2",
   "version": "1.0.0",
   "description": "Gulp plugin for jsduck",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/rwhogg/gulp-jsduck"
+    "url": "git@github.com/olafleur/gulp-jsduck2"
   },
   "keywords": [
     "gulp",
     "jsduck",
     "gulpplugin"
   ],
-  "author": "Bob W. Hogg",
+  "author": "Olivier Lafleur",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "gulp": "^4.0.2",
