@@ -18,14 +18,13 @@
   "author": "Bob W. Hogg",
   "license": "BSD-3-Clause",
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-jscs": "^4.0.0",
-    "rimraf": "^2.5.4"
+    "gulp": "^4.0.2",
+    "rimraf": "^3.0.2"
   },
   "dependencies": {
     "gulp-util": "^3.0.6",
     "jsduck": "^1.1.2",
-    "through2": "^2.0.0",
+    "through2": "^4.0.2",
     "yajscf": "^1.0.3"
   }
 }
